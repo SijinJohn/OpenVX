@@ -1,0 +1,2 @@
+/home/openvx/openvx_tutorial/tutorial_exercises/DFT/build/CMakeFiles/dft.dir
+/home/openvx/openvx_tutorial/tutorial_exercises/DFT/build/CMakeFiles/test_dft.dir

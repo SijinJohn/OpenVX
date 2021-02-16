@@ -1,0 +1,8 @@
+/home/openvx/openvx_tutorial/tutorial_exercises/build/Heart_rate/CMakeFiles/Heart_rate.dir
+/home/openvx/openvx_tutorial/tutorial_exercises/build/exercise1/CMakeFiles/exercise1.dir
+/home/openvx/openvx_tutorial/tutorial_exercises/build/exercise2/CMakeFiles/exercise2.dir
+/home/openvx/openvx_tutorial/tutorial_exercises/build/exercise3/CMakeFiles/exercise3.dir
+/home/openvx/openvx_tutorial/tutorial_exercises/build/amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir
+/home/openvx/openvx_tutorial/tutorial_exercises/build/solution_exercise1/CMakeFiles/solution_exercise1.dir
+/home/openvx/openvx_tutorial/tutorial_exercises/build/solution_exercise2/CMakeFiles/solution_exercise2.dir
+/home/openvx/openvx_tutorial/tutorial_exercises/build/solution_exercise3/CMakeFiles/solution_exercise3.dir

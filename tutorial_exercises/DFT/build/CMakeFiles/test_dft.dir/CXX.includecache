@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/complex.h
+iostream
+-
+cmath
+-
+
+../include/fft.h
+complex.h
+../include/complex.h
+
+/home/openvx/openvx_tutorial/tutorial_exercises/DFT/main.cpp
+iostream
+-
+ctime
+-
+fft.h
+/home/openvx/openvx_tutorial/tutorial_exercises/DFT/fft.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libdft.a  CMakeFiles/dft.dir/src/dft.cpp.o CMakeFiles/dft.dir/src/complex.cpp.o CMakeFiles/dft.dir/src/fft.cpp.o
+/usr/bin/ranlib libdft.a
