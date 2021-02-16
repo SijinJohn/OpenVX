@@ -153,30 +153,6 @@ Heart_rate/fast:
 	cd /home/openvx/openvx_tutorial/tutorial_exercises/build && $(MAKE) -f Heart_rate/CMakeFiles/Heart_rate.dir/build.make Heart_rate/CMakeFiles/Heart_rate.dir/build
 .PHONY : Heart_rate/fast
 
-Complex.o: Complex.cpp.o
-.PHONY : Complex.o
-
-# target to build an object file
-Complex.cpp.o:
-	cd /home/openvx/openvx_tutorial/tutorial_exercises/build && $(MAKE) -f Heart_rate/CMakeFiles/Heart_rate.dir/build.make Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o
-.PHONY : Complex.cpp.o
-
-Complex.i: Complex.cpp.i
-.PHONY : Complex.i
-
-# target to preprocess a source file
-Complex.cpp.i:
-	cd /home/openvx/openvx_tutorial/tutorial_exercises/build && $(MAKE) -f Heart_rate/CMakeFiles/Heart_rate.dir/build.make Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.i
-.PHONY : Complex.cpp.i
-
-Complex.s: Complex.cpp.s
-.PHONY : Complex.s
-
-# target to generate assembly for a file
-Complex.cpp.s:
-	cd /home/openvx/openvx_tutorial/tutorial_exercises/build && $(MAKE) -f Heart_rate/CMakeFiles/Heart_rate.dir/build.make Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.s
-.PHONY : Complex.cpp.s
-
 FFT.o: FFT.cpp.o
 .PHONY : FFT.o
 
@@ -238,9 +214,6 @@ help:
 	@echo "... install/strip"
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
-	@echo "... Complex.o"
-	@echo "... Complex.i"
-	@echo "... Complex.s"
 	@echo "... FFT.o"
 	@echo "... FFT.i"
 	@echo "... FFT.s"

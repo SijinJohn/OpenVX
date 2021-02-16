@@ -74,7 +74,7 @@ amdovx-modules/deps/amdovx-core/openvx/preinstall:
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/all:
 	$(MAKE) -f amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/build.make amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/depend
 	$(MAKE) -f amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/build.make amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
 	@echo "Built target openvx"
 .PHONY : amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/all
 
@@ -124,7 +124,7 @@ exercise1/preinstall:
 exercise1/CMakeFiles/exercise1.dir/all: amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/all
 	$(MAKE) -f exercise1/CMakeFiles/exercise1.dir/build.make exercise1/CMakeFiles/exercise1.dir/depend
 	$(MAKE) -f exercise1/CMakeFiles/exercise1.dir/build.make exercise1/CMakeFiles/exercise1.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  4
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  3
 	@echo "Built target exercise1"
 .PHONY : exercise1/CMakeFiles/exercise1.dir/all
 
@@ -174,7 +174,7 @@ solution_exercise1/preinstall:
 solution_exercise1/CMakeFiles/solution_exercise1.dir/all: amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/all
 	$(MAKE) -f solution_exercise1/CMakeFiles/solution_exercise1.dir/build.make solution_exercise1/CMakeFiles/solution_exercise1.dir/depend
 	$(MAKE) -f solution_exercise1/CMakeFiles/solution_exercise1.dir/build.make solution_exercise1/CMakeFiles/solution_exercise1.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  40
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  39
 	@echo "Built target solution_exercise1"
 .PHONY : solution_exercise1/CMakeFiles/solution_exercise1.dir/all
 
@@ -224,7 +224,7 @@ exercise2/preinstall:
 exercise2/CMakeFiles/exercise2.dir/all: amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/all
 	$(MAKE) -f exercise2/CMakeFiles/exercise2.dir/build.make exercise2/CMakeFiles/exercise2.dir/depend
 	$(MAKE) -f exercise2/CMakeFiles/exercise2.dir/build.make exercise2/CMakeFiles/exercise2.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  5
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  4
 	@echo "Built target exercise2"
 .PHONY : exercise2/CMakeFiles/exercise2.dir/all
 
@@ -274,7 +274,7 @@ solution_exercise2/preinstall:
 solution_exercise2/CMakeFiles/solution_exercise2.dir/all: amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/all
 	$(MAKE) -f solution_exercise2/CMakeFiles/solution_exercise2.dir/build.make solution_exercise2/CMakeFiles/solution_exercise2.dir/depend
 	$(MAKE) -f solution_exercise2/CMakeFiles/solution_exercise2.dir/build.make solution_exercise2/CMakeFiles/solution_exercise2.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  41
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  40
 	@echo "Built target solution_exercise2"
 .PHONY : solution_exercise2/CMakeFiles/solution_exercise2.dir/all
 
@@ -324,7 +324,7 @@ Heart_rate/preinstall:
 Heart_rate/CMakeFiles/Heart_rate.dir/all: amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/all
 	$(MAKE) -f Heart_rate/CMakeFiles/Heart_rate.dir/build.make Heart_rate/CMakeFiles/Heart_rate.dir/depend
 	$(MAKE) -f Heart_rate/CMakeFiles/Heart_rate.dir/build.make Heart_rate/CMakeFiles/Heart_rate.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  1 2 3
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  1 2
 	@echo "Built target Heart_rate"
 .PHONY : Heart_rate/CMakeFiles/Heart_rate.dir/all
 
@@ -334,7 +334,7 @@ all: Heart_rate/CMakeFiles/Heart_rate.dir/all
 
 # Build rule for subdir invocation for target.
 Heart_rate/CMakeFiles/Heart_rate.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles 36
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles 35
 	$(MAKE) -f CMakeFiles/Makefile2 Heart_rate/CMakeFiles/Heart_rate.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles 0
 .PHONY : Heart_rate/CMakeFiles/Heart_rate.dir/rule
@@ -374,7 +374,7 @@ exercise3/preinstall:
 exercise3/CMakeFiles/exercise3.dir/all: amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/all
 	$(MAKE) -f exercise3/CMakeFiles/exercise3.dir/build.make exercise3/CMakeFiles/exercise3.dir/depend
 	$(MAKE) -f exercise3/CMakeFiles/exercise3.dir/build.make exercise3/CMakeFiles/exercise3.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  6
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  5
 	@echo "Built target exercise3"
 .PHONY : exercise3/CMakeFiles/exercise3.dir/all
 
@@ -424,7 +424,7 @@ solution_exercise3/preinstall:
 solution_exercise3/CMakeFiles/solution_exercise3.dir/all: amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/all
 	$(MAKE) -f solution_exercise3/CMakeFiles/solution_exercise3.dir/build.make solution_exercise3/CMakeFiles/solution_exercise3.dir/depend
 	$(MAKE) -f solution_exercise3/CMakeFiles/solution_exercise3.dir/build.make solution_exercise3/CMakeFiles/solution_exercise3.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  42
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles  41
 	@echo "Built target solution_exercise3"
 .PHONY : solution_exercise3/CMakeFiles/solution_exercise3.dir/all
 

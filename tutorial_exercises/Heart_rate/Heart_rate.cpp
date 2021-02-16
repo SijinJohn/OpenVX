@@ -4,7 +4,7 @@
 #include <complex>
 #include <iterator>
 #include "opencv_camera_display.h"
-#include "complex.h"
+#include "Complex.h"
 #include "FFT.h"
 
 // The most important top-level OpenVX header files are "VX/vx.h" and "VX/vxu.h".
@@ -263,12 +263,12 @@ int main( int argc, char * argv[] )
     vx_uint32  width     = gui.GetWidth();
     vx_uint32  height    = gui.GetHeight();
     vx_int32   ksize     = 7;
-    typedef complex<double> cx;
-     cx a[] = { cx(0,0), cx(1,1), cx(3,3), cx(4,4), cx(4, 4), cx(3, 3), cx(1,1), cx(0,0) };
-     cx b[8];
-     fft(a, b, 3);
-     for (int i=0; i<8; ++i)
-       cout << b[i] << "\n";
+  //  typedef complex<double> cx;
+  //   cx a[] = { cx(0,0), cx(1,1), cx(3,3), cx(4,4), cx(4, 4), cx(3, 3), cx(1,1), cx(0,0) };
+   //  cx b[8];
+   //  fft(a, b, 3);
+ //    for (int i=0; i<8; ++i)
+   //    cout << b[i] << "\n";
     ////////
     // Create the OpenVX context and make sure returned context is valid and
     // register the log_callback to receive messages from OpenVX framework.

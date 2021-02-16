@@ -4,7 +4,6 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/Complex.cpp" "/home/openvx/openvx_tutorial/tutorial_exercises/build/Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o"
   "/home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/FFT.cpp" "/home/openvx/openvx_tutorial/tutorial_exercises/build/Heart_rate/CMakeFiles/Heart_rate.dir/FFT.cpp.o"
   "/home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/Heart_rate.cpp" "/home/openvx/openvx_tutorial/tutorial_exercises/build/Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o"
   )

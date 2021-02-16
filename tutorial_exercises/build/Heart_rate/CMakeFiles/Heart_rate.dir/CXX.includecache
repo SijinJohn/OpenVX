@@ -7,8 +7,6 @@
 #IncludeRegexTransform: 
 
 ../include/Complex.h
-iostream
--
 VX/vx_types.h
 ../include/VX/vx_types.h
 
@@ -46,12 +44,6 @@ stddef.h
 
 ../include/VX/vx_vendors.h
 
-../include/complex.h
-iostream
--
-cmath
--
-
 ../include/opencv_camera_display.h
 opencv2/opencv.hpp
 -
@@ -59,14 +51,6 @@ stdio.h
 -
 string
 -
-
-/home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/Complex.cpp
-iostream
--
-VX/vx.h
--
-Complex.h
-/home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/Complex.h
 
 /home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/FFT.cpp
 complex
@@ -89,8 +73,8 @@ iterator
 -
 opencv_camera_display.h
 /home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/opencv_camera_display.h
-complex.h
-/home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/complex.h
+Complex.h
+/home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/Complex.h
 FFT.h
 /home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/FFT.h
 VX/vx.h
