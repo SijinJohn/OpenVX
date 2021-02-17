@@ -97,6 +97,8 @@ VX/vx_nodes.h
 ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_compatibility.h
 
 ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_kernels.h
+vx_types.h
+../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 
 ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_khr_nn.h
 VX/vx.h

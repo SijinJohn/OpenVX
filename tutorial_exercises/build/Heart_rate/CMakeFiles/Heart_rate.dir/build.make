@@ -95,16 +95,41 @@ Heart_rate/CMakeFiles/Heart_rate.dir/FFT.cpp.o.provides: Heart_rate/CMakeFiles/H
 
 Heart_rate/CMakeFiles/Heart_rate.dir/FFT.cpp.o.provides.build: Heart_rate/CMakeFiles/Heart_rate.dir/FFT.cpp.o
 
+Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o: Heart_rate/CMakeFiles/Heart_rate.dir/flags.make
+Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o: ../Heart_rate/Complex.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/openvx/openvx_tutorial/tutorial_exercises/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o"
+	cd /home/openvx/openvx_tutorial/tutorial_exercises/build/Heart_rate && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/Heart_rate.dir/Complex.cpp.o -c /home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/Complex.cpp
+
+Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Heart_rate.dir/Complex.cpp.i"
+	cd /home/openvx/openvx_tutorial/tutorial_exercises/build/Heart_rate && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/Complex.cpp > CMakeFiles/Heart_rate.dir/Complex.cpp.i
+
+Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Heart_rate.dir/Complex.cpp.s"
+	cd /home/openvx/openvx_tutorial/tutorial_exercises/build/Heart_rate && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/Complex.cpp -o CMakeFiles/Heart_rate.dir/Complex.cpp.s
+
+Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o.requires:
+.PHONY : Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o.requires
+
+Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o.provides: Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o.requires
+	$(MAKE) -f Heart_rate/CMakeFiles/Heart_rate.dir/build.make Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o.provides.build
+.PHONY : Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o.provides
+
+Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o.provides.build: Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o
+
 # Object files for target Heart_rate
 Heart_rate_OBJECTS = \
 "CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o" \
-"CMakeFiles/Heart_rate.dir/FFT.cpp.o"
+"CMakeFiles/Heart_rate.dir/FFT.cpp.o" \
+"CMakeFiles/Heart_rate.dir/Complex.cpp.o"
 
 # External object files for target Heart_rate
 Heart_rate_EXTERNAL_OBJECTS =
 
 Heart_rate/Heart_rate: Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o
 Heart_rate/Heart_rate: Heart_rate/CMakeFiles/Heart_rate.dir/FFT.cpp.o
+Heart_rate/Heart_rate: Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o
 Heart_rate/Heart_rate: Heart_rate/CMakeFiles/Heart_rate.dir/build.make
 Heart_rate/Heart_rate: amdovx-modules/deps/amdovx-core/openvx/libopenvx.so
 Heart_rate/Heart_rate: /usr/lib/x86_64-linux-gnu/libopencv_videostab.so.2.4.8
@@ -146,6 +171,7 @@ Heart_rate/CMakeFiles/Heart_rate.dir/build: Heart_rate/Heart_rate
 
 Heart_rate/CMakeFiles/Heart_rate.dir/requires: Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o.requires
 Heart_rate/CMakeFiles/Heart_rate.dir/requires: Heart_rate/CMakeFiles/Heart_rate.dir/FFT.cpp.o.requires
+Heart_rate/CMakeFiles/Heart_rate.dir/requires: Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o.requires
 .PHONY : Heart_rate/CMakeFiles/Heart_rate.dir/requires
 
 Heart_rate/CMakeFiles/Heart_rate.dir/clean:

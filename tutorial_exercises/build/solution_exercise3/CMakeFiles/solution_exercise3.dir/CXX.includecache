@@ -29,6 +29,8 @@ VX/vx_nodes.h
 ../include/VX/vx_api.h
 
 ../include/VX/vx_kernels.h
+vx_types.h
+../include/VX/vx_types.h
 
 ../include/VX/vx_khr_nn.h
 VX/vx.h
@@ -41,6 +43,10 @@ stdint.h
 -
 stddef.h
 -
+vx_vendors.h
+../include/VX/vx_vendors.h
+vx.h
+../include/VX/vx.h
 
 ../include/VX/vx_vendors.h
 
