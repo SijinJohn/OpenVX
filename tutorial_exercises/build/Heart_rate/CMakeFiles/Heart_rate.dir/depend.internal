@@ -14,6 +14,7 @@ Heart_rate/CMakeFiles/Heart_rate.dir/FFT.cpp.o
  ../include/FFT.h
  /home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/FFT.cpp
 Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o
+ ../include/CImg.h
  ../include/FFT.h
  ../include/VX/vx.h
  ../include/VX/vx_api.h
@@ -21,5 +22,6 @@ Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o
  ../include/VX/vx_nodes.h
  ../include/VX/vx_types.h
  ../include/VX/vx_vendors.h
+ ../include/complex.h
  ../include/opencv_camera_display.h
  /home/openvx/openvx_tutorial/tutorial_exercises/Heart_rate/Heart_rate.cpp

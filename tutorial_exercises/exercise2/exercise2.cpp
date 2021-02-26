@@ -283,7 +283,7 @@ int main( int argc, char * argv[] )
     // the image with OpenVX results
     const char * video_sequence = argv[1];
     CGuiModule gui( video_sequence );
-
+    printf("Hai how are you????@#$%^^");
     // Try grab first video frame from the sequence using cv::VideoCapture
     // and check if video frame is available
     if( !gui.Grab() )

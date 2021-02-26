@@ -27,6 +27,8 @@
 extern "C" {
 #endif
 
+#include "vx_types.h"
+
 /*!
  * \brief The standard list of available libraries
  * \ingroup group_kernel

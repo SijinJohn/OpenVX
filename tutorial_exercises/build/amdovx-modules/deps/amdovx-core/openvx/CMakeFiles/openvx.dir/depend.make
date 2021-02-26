@@ -9,12 +9,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_drama.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -24,12 +24,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_drama_alloc.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -39,12 +39,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analy
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_drama_analyze.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -54,12 +54,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divid
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_drama_divide.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -69,12 +69,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_drama_merge.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -84,12 +84,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remov
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_drama_remove.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -99,12 +99,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -114,12 +114,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ari
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_arithmetic.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -129,12 +129,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_can
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_canny.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -144,12 +144,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_ch_extract_combine.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -159,12 +159,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_col
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_color_convert.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -174,12 +174,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fas
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_fast_corners.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -189,12 +189,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fil
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_filter.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -204,12 +204,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geo
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_geometric.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -219,12 +219,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_har
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_harris.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -234,12 +234,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_his
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_histogram.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -249,12 +249,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_log
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_logical.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -264,12 +264,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opt
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_opticalflow.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -279,12 +279,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyr
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu_pyramid.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -294,13 +294,13 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_com
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu_common.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -310,13 +310,13 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_con
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu_conversion.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -326,13 +326,13 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_cor
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu_corners.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -342,13 +342,13 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_lin
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu_linear_filter.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -358,13 +358,13 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_spe
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu_special_filters.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -374,12 +374,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.c
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_interface.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -389,7 +389,6 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
@@ -397,6 +396,7 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernel_api.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -406,13 +406,13 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernel_api.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernel_list.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -422,12 +422,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.cpp
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -437,12 +437,12 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o:
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_util.cpp
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_api.h
@@ -452,13 +452,13 @@ amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_nodes.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_types.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/VX/vx_vendors.h
-amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_gpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_platform.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_util_opencl.cpp
+amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
 amdovx-modules/deps/amdovx-core/openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.o: ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h

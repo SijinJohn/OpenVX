@@ -25,7 +25,8 @@
 
 #include <stdint.h>
 #include <stddef.h>
-
+#include "vx_vendors.h"
+#include "vx.h"
 /*!
  * \internal
  * \def VX_API_ENTRY

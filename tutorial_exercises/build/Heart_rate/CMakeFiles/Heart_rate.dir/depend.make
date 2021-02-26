@@ -13,6 +13,7 @@ Heart_rate/CMakeFiles/Heart_rate.dir/Complex.cpp.o: ../Heart_rate/Complex.cpp
 Heart_rate/CMakeFiles/Heart_rate.dir/FFT.cpp.o: ../include/FFT.h
 Heart_rate/CMakeFiles/Heart_rate.dir/FFT.cpp.o: ../Heart_rate/FFT.cpp
 
+Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../include/CImg.h
 Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../include/FFT.h
 Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../include/VX/vx.h
 Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../include/VX/vx_api.h
@@ -20,6 +21,7 @@ Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../include/VX/vx_kernels.
 Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../include/VX/vx_nodes.h
 Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../include/VX/vx_types.h
 Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../include/VX/vx_vendors.h
+Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../include/complex.h
 Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../include/opencv_camera_display.h
 Heart_rate/CMakeFiles/Heart_rate.dir/Heart_rate.cpp.o: ../Heart_rate/Heart_rate.cpp
 

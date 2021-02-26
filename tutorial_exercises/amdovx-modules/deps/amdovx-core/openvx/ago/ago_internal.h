@@ -27,7 +27,7 @@ THE SOFTWARE.
 #include "ago_platform.h"
 #include "ago_kernels.h"
 #include "ago_haf_cpu.h"
-#include "vx_ext_amd.h"
+#include "../include/vx_ext_amd.h"
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // configuration flags and constants

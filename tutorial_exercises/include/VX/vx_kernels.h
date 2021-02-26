@@ -15,6 +15,7 @@
  * limitations under the License.
  */
 
+
 #ifndef _OPENVX_KERNELS_H_
 #define _OPENVX_KERNELS_H_
 
@@ -27,6 +28,7 @@
 extern "C" {
 #endif
 
+#include "vx_types.h"
 /*!
  * \brief The standard list of available libraries
  * \ingroup group_kernel

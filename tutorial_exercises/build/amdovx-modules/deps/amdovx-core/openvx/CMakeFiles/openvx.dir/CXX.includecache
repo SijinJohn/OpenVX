@@ -17,8 +17,8 @@ ago_kernels.h
 ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 ago_haf_cpu.h
 ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
-vx_ext_amd.h
-../amdovx-modules/deps/amdovx-core/openvx/ago/vx_ext_amd.h
+../include/vx_ext_amd.h
+../amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 ../amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 VX/vx.h
@@ -239,8 +239,8 @@ ago_kernels.h
 /home/openvx/openvx_tutorial/tutorial_exercises/amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernels.h
 ago_haf_cpu.h
 /home/openvx/openvx_tutorial/tutorial_exercises/amdovx-modules/deps/amdovx-core/openvx/ago/ago_haf_cpu.h
-vx_ext_amd.h
-/home/openvx/openvx_tutorial/tutorial_exercises/amdovx-modules/deps/amdovx-core/openvx/ago/vx_ext_amd.h
+../include/vx_ext_amd.h
+/home/openvx/openvx_tutorial/tutorial_exercises/amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
 
 /home/openvx/openvx_tutorial/tutorial_exercises/amdovx-modules/deps/amdovx-core/openvx/ago/ago_kernel_api.cpp
 ago_internal.h
@@ -360,5 +360,13 @@ VX/vx.h
 VX/vxu.h
 -
 ago_internal.h
+-
+
+/home/openvx/openvx_tutorial/tutorial_exercises/amdovx-modules/deps/amdovx-core/openvx/include/vx_ext_amd.h
+VX/vx.h
+-
+VX/vx_khr_nn.h
+-
+string
 -
 
