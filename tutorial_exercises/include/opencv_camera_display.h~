@@ -35,7 +35,7 @@
 #include <string>
 
 #ifndef DEFAULT_VIDEO_SEQUENCE
-#define DEFAULT_VIDEO_SEQUENCE "../../tutorial_videos/PETS09-S1-L1-View001.avi"
+#define DEFAULT_VIDEO_SEQUENCE "../../tutorial_videos/Lenna.jpg"
 #endif
 
 #ifndef DEFAULT_WAITKEY_DELAY

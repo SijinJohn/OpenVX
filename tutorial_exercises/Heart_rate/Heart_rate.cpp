@@ -73,7 +73,7 @@ vx_status VX_CALLBACK fft_validator( vx_node node,
    vx_uint32 width = 0, height = 0;
    ERROR_CHECK_STATUS( vxQueryImage( ( vx_image )parameters[0], VX_IMAGE_WIDTH,  &width,  sizeof( width ) ) );
    ERROR_CHECK_STATUS( vxQueryImage( ( vx_image )parameters[0], VX_IMAGE_HEIGHT, &height, sizeof( height ) ) );
-   format = VX_DF_IMAGE_U8;
+   format = VX_DF_IMAGE_RGB;
    ERROR_CHECK_STATUS( vxSetMetaFormatAttribute( metas[1], VX_IMAGE_FORMAT, &format, sizeof( format ) ) );
    ERROR_CHECK_STATUS( vxSetMetaFormatAttribute( metas[1], VX_IMAGE_WIDTH,  &width,  sizeof( width ) ) );
    ERROR_CHECK_STATUS( vxSetMetaFormatAttribute( metas[1], VX_IMAGE_HEIGHT, &height, sizeof( height ) ) );
@@ -100,12 +100,19 @@ vx_status VX_CALLBACK fft_host_side_function( vx_node node, const vx_reference *
 
 //    cv::Mat mat_input(  height, width, CV_8U, ptr_input,  addr_input .stride_y );
 //    cv::Mat mat_output( height, width, CV_8U, ptr_output, addr_output.stride_y );
+
+    const char * output_file = (const char*)ptr_output;
+    CImg<unsigned char> * output = new CImg<unsigned char>(output_file);
+    CImgList<unsigned char> fft = output->get_FFT();
+    CImg<unsigned char>::FFT(fft[0], fft[1], false);
+    fft[0].save("fft.jpg");
+//    cv::Mat mat_output( height, width, CV_8U, ptr_output, addr_output.stride_y );
 //    cv::medianBlur( mat_input, mat_output, ksize );
 
 
-   CImgList<unsigned char> fft =((CImg<unsigned char> *)ptr_input)->get_FFT();
-   CImg<unsigned char>::FFT(fft[0], fft[1], false);
-   fft[0].save("fft.jpg");
+//   CImgList<unsigned char> fft =((CImg<unsigned char> *)ptr_input)->get_FFT();
+//   CImg<unsigned char>::FFT(fft[0], fft[1], false);
+//   fft[0].save("fft.jpg");
 
    ERROR_CHECK_STATUS( vxUnmapImagePatch( input,  map_input ) );
    ERROR_CHECK_STATUS( vxUnmapImagePatch( fft_output, map_output ) );
@@ -146,12 +153,18 @@ void VX_CALLBACK log_callback( vx_context    context,
 int main( int argc, char * argv[] )
 {
 
-    const char * input_file = "../../tutorial_videos/Lenna.jpg";
+    const char * video_sequence = argv[1];
+    CGuiModule gui( video_sequence );
 
-    CImg<unsigned char> * input = new CImg<unsigned char>(input_file);
 
-    vx_uint32  width     = input->width();
-    vx_uint32  height    = input->height();
+    if( !gui.Grab() )
+    {
+        printf( "ERROR: input has no image\n" );
+        return 1;
+    }
+
+    vx_uint32  width     = gui.GetWidth();
+    vx_uint32  height    = gui.GetHeight();
 
     vx_context context = vxCreateContext();
     ERROR_CHECK_OBJECT( context );
@@ -160,7 +173,7 @@ int main( int argc, char * argv[] )
     ERROR_CHECK_STATUS( registerUserKernel( context ) );
 
     vx_image input_rgb_image       = vxCreateImage( context, width, height, VX_DF_IMAGE_RGB );
-    vx_image output_fft_image = vxCreateImage( context, width, height, VX_DF_IMAGE_RGB );
+    vx_image output_fft_image      = vxCreateImage( context, width, height, VX_DF_IMAGE_RGB );
     ERROR_CHECK_OBJECT( input_rgb_image );
     ERROR_CHECK_OBJECT( output_fft_image );
 
@@ -180,6 +193,9 @@ int main( int argc, char * argv[] )
 
     ERROR_CHECK_STATUS( vxVerifyGraph( graph ) );
 
+    for( int frame_index = 0; !gui.AbortRequested(); frame_index++ )
+    {
+
     vx_rectangle_t cv_rgb_image_region;
     cv_rgb_image_region.start_x    = 0;
     cv_rgb_image_region.start_y    = 0;
@@ -187,8 +203,8 @@ int main( int argc, char * argv[] )
     cv_rgb_image_region.end_y      = height;
     vx_imagepatch_addressing_t cv_rgb_image_layout;
     cv_rgb_image_layout.stride_x   = 3;
-    //cv_rgb_image_layout.stride_y   = gui.GetStride();
-    vx_uint8 * cv_rgb_image_buffer = (vx_uint8*)input;
+    cv_rgb_image_layout.stride_y   = gui.GetStride();
+    vx_uint8 * cv_rgb_image_buffer = gui.GetBuffer();
     ERROR_CHECK_STATUS( vxCopyImagePatch( input_rgb_image, &cv_rgb_image_region, 0,
                                           &cv_rgb_image_layout, cv_rgb_image_buffer,
                                           VX_WRITE_ONLY, VX_MEMORY_TYPE_HOST ) );
@@ -201,11 +217,12 @@ int main( int argc, char * argv[] )
     void * ptr;
     ERROR_CHECK_STATUS( vxMapImagePatch( output_fft_image, &rect, 0, &map_id, &addr, &ptr,
                                          VX_READ_ONLY, VX_MEMORY_TYPE_HOST, VX_NOGAP_X ) );
-    /*
-     Display output image
-     */
-
+    cv::Mat mat( height, width, CV_8U, ptr, addr.stride_y );
+#if ENABLE_DISPLAY
+    cv::imshow( "FFT", mat );
+#endif
     ERROR_CHECK_STATUS( vxUnmapImagePatch( output_fft_image, map_id ) );
+    }
 
     ERROR_CHECK_STATUS( vxReleaseGraph( &graph ) );
     ERROR_CHECK_STATUS( vxReleaseImage( &input_rgb_image ) );
