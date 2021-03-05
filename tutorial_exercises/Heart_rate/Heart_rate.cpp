@@ -6,7 +6,7 @@
 #include "complex.h"
 #include "FFT.h"
 //#include "../amdovx-modules/deps/amdovx-core/openvx/ago/ago_internal.h"
-
+#define  cimg_use_opencv
 #include "CImg.h"
 using namespace cimg_library;
 
@@ -98,21 +98,16 @@ vx_status VX_CALLBACK fft_host_side_function( vx_node node, const vx_reference *
    ERROR_CHECK_STATUS( vxMapImagePatch( input,  &rect, 0, &map_input, &addr_input,  &ptr_input,  VX_READ_ONLY, VX_MEMORY_TYPE_HOST, VX_NOGAP_X ) );
    ERROR_CHECK_STATUS( vxMapImagePatch( fft_output, &rect, 0, &map_output, &addr_output, &ptr_output, VX_WRITE_ONLY, VX_MEMORY_TYPE_HOST, VX_NOGAP_X ) );
 
-//    cv::Mat mat_input(  height, width, CV_8U, ptr_input,  addr_input .stride_y );
-//    cv::Mat mat_output( height, width, CV_8U, ptr_output, addr_output.stride_y );
 
-    const char * output_file = (const char*)ptr_output;
-    CImg<unsigned char> * output = new CImg<unsigned char>(output_file);
-    CImgList<unsigned char> fft = output->get_FFT();
+   // const char* output_file = (const char*)ptr_output;
+    const char * input_file = "../../tutorial_videos/Lenna";
+
+    CImg<unsigned char>  input1 (input_file); //new CImg<unsigned char>(input_file);
+
+   // CImg<unsigned char> * output = new CImg<unsigned char>(output_file);
+    CImgList<unsigned char> fft = input1.get_FFT();
     CImg<unsigned char>::FFT(fft[0], fft[1], false);
     fft[0].save("fft.jpg");
-//    cv::Mat mat_output( height, width, CV_8U, ptr_output, addr_output.stride_y );
-//    cv::medianBlur( mat_input, mat_output, ksize );
-
-
-//   CImgList<unsigned char> fft =((CImg<unsigned char> *)ptr_input)->get_FFT();
-//   CImg<unsigned char>::FFT(fft[0], fft[1], false);
-//   fft[0].save("fft.jpg");
 
    ERROR_CHECK_STATUS( vxUnmapImagePatch( input,  map_input ) );
    ERROR_CHECK_STATUS( vxUnmapImagePatch( fft_output, map_output ) );
@@ -153,18 +148,19 @@ void VX_CALLBACK log_callback( vx_context    context,
 int main( int argc, char * argv[] )
 {
 
-    const char * video_sequence = argv[1];
-    CGuiModule gui( video_sequence );
+//    cv::Mat image;
+//    image = cv::imread(argv[1], CV_LOAD_IMAGE_COLOR);
+//    const char * video_sequence = argv[1];
+//    CGuiModule gui(video_sequence);
+    CGuiModule gui;
+//    if( !gui.Grab() )
+//    {
+//        printf( "ERROR: input has no image\n" );
+//        return 1;
+//    }
 
-
-    if( !gui.Grab() )
-    {
-        printf( "ERROR: input has no image\n" );
-        return 1;
-    }
-
-    vx_uint32  width     = gui.GetWidth();
-    vx_uint32  height    = gui.GetHeight();
+    vx_uint32  width     = 512/*gui.GetWidth()*/;
+    vx_uint32  height    = 512/*gui.GetHeight()*/;
 
     vx_context context = vxCreateContext();
     ERROR_CHECK_OBJECT( context );
@@ -193,8 +189,8 @@ int main( int argc, char * argv[] )
 
     ERROR_CHECK_STATUS( vxVerifyGraph( graph ) );
 
-    for( int frame_index = 0; !gui.AbortRequested(); frame_index++ )
-    {
+//    for( int frame_index = 0; !gui.AbortRequested(); frame_index++ )
+//    {
 
     vx_rectangle_t cv_rgb_image_region;
     cv_rgb_image_region.start_x    = 0;
@@ -222,7 +218,7 @@ int main( int argc, char * argv[] )
     cv::imshow( "FFT", mat );
 #endif
     ERROR_CHECK_STATUS( vxUnmapImagePatch( output_fft_image, map_id ) );
-    }
+//    }
 
     ERROR_CHECK_STATUS( vxReleaseGraph( &graph ) );
     ERROR_CHECK_STATUS( vxReleaseImage( &input_rgb_image ) );

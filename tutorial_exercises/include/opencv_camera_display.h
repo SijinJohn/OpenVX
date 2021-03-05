@@ -38,6 +38,10 @@
 #define DEFAULT_VIDEO_SEQUENCE "../../tutorial_videos/PETS09-S1-L1-View001.avi"
 #endif
 
+#ifndef IMAGE_PATH
+#define IMAGE_PATH "../../tutorial_videos/Lenna"
+#endif
+
 #ifndef DEFAULT_WAITKEY_DELAY
 #define DEFAULT_WAITKEY_DELAY  1  /* waitKey delay time in milliseconds after each frame processing */
 #endif
@@ -81,15 +85,31 @@ public:
 #endif
     }
 
+    CGuiModule()
+    {
+        m_imgRGB = cv::imread(IMAGE_PATH);
+        m_windowName = IMAGE_PATH;
+        if(! m_imgRGB.data )                              // Check for invalid input
+        {
+            printf("Could not open or find the image") ;
+            exit(1);
+        }
+        printf( "OK: Image#%s %dx%d\n", IMAGE_PATH, GetWidth(), GetHeight());
+#if ENABLE_DISPLAY
+        cv::namedWindow(m_windowName);
+#endif
+    }
+
+
     int GetWidth()
     {
-        return (int) m_cap.get( CV_CAP_PROP_FRAME_WIDTH );
+        return 512/*(int) m_cap.get( CV_CAP_PROP_FRAME_WIDTH )*/;
     }
 
     int GetHeight()
     {
 #if 1 // TBD: workaround for reported OpenCV+Windows bug that returns width instead of height
-		return 480;
+                return 512 /*480*/;
 #else
         return (int) m_cap.get( CV_CAP_PROP_FRAME_HEIGHT );
 #endif
@@ -178,6 +198,7 @@ protected:
     cv::VideoCapture  m_cap;
     cv::Mat           m_imgBGR;
     cv::Mat           m_imgRGB;
+    cv::Mat 	      image;
 };
 
 #endif
