@@ -107,11 +107,13 @@ vx_status VX_CALLBACK fft_host_side_function( vx_node node, const vx_reference *
    }
 
 
-   const char * input_file = /*(char*)ptr_input*/IMAGE_PATH;
+//   const char * input_file = /*(char*)ptr_input*/IMAGE_PATH;
 
    CImg<unsigned char>  input1 ((unsigned char*)ptr_input, width, height, 1, 3, true);
-   CImgList<unsigned char> fft = input1.get_FFT();
-   CImg<unsigned char>::FFT(fft[0], fft[1], false, 0);
+//   CImg<float>  input1 ((float*)ptr_input);
+
+   CImgList<float> fft = input1.get_FFT();
+   CImg<float>::FFT(fft[0], fft[1], false, 0);
    fft[0].save("fftreal.jpg");
    fft[1].save("fftimag.jpg");
    int w0 = fft[0].width();
